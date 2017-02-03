@@ -46,6 +46,7 @@
       var position = 0;
       var grayarea = document.getElementById("grayarea");
       var nav_menu_opener = document.getElementById("nav_menu_opener");
+      var xsidebar = document.getElementById("sidebar");
     //var nav_menue_auf = document.getElementById("nav_menue_auf");
       
       
@@ -55,11 +56,11 @@
       function toggle(evt) {
         position++;
 			 if (position == 1) {
-          sidebar.classList.add("open");
+          xsidebar.classList.add("open");
           grayarea.classList.add("open");
           console.log("2");
         } else {
-          sidebar.classList.remove("open");
+          xsidebar.classList.remove("open");
           grayarea.classList.remove("open");
           console.log("3");
           position = 0;
