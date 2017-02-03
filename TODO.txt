@@ -1,0 +1,2 @@
+OpenSans-Font: Store locally
+footer: make available on mobile devices
