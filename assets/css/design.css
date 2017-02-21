@@ -282,7 +282,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	display: block;
 	padding: 0;
 }
-#footer a {
+#footer .footer-brand {
 	font-size: 19px;
 	color: rgb(255, 255, 255);
 	float: left;
@@ -293,9 +293,11 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 #footer ul{
 	margin: 0;
 	padding: 0;
+	float: right;
 }
 #footer ul li{
 	list-style: none;
+	float: right;
 
 }
 #footer ul li a {
@@ -303,6 +305,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 	float: left;
 	font-size: 13px;
 	padding: 13px 15px;
+	color: rgb(255, 255, 255);
 }
 #footer ul li a:hover {
 	background-color: rgb(65, 39, 20);
@@ -337,7 +340,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 		position: absolute;
 		top: 50px;
 		left: 0;
-		height: calc(100% - 50px);
+		height: calc(100% - 106px);
 
 		overflow-y: scroll;
 		margin: 0;
@@ -347,7 +350,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 		display: block;
 		position: absolute;
 		top: 0;
-		left: -5px;
+		left: -15px;
 		width: 80%;
 		height: calc(100% - 50px);
 		max-width: 270px;
@@ -363,7 +366,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 		display: block;
 		position: absolute;
 		right: 7px;
-		top: 7px;
+		bottom: 7px;
 		padding: 5px;
 		cursor: pointer;
 		text-decoration: none;
@@ -385,7 +388,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 		margin: 0;
 		padding: 0;
 		position: absolute;
-
+		float: left;
 		height: 100%;
 		width: 100%;
 		overflow-y: hidden;
@@ -413,12 +416,12 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 
 #sidebar {
-	transform: translate(-280px,0); /*####  menĆ¼ schlieĆt default  ####*/
+	transform: translate(-280px,0); /*####  menÄ†Â¼ schlieÄ†ÂŸt default  ####*/
 
 	transition: transform 0.05s ease-out;
 }
 #sidebar.open {
-	transform: translate(0px,0); /*####  menĆ¼ schlieĆt default  ####*/
+	transform: translate(10px,0); /*####  menÄ†Â¼ schlieÄ†ÂŸt default  ####*/
 
 	transition: transform 0.05s ease-out;
 }
@@ -452,9 +455,37 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 
 
-/*FOOTER NACHTRÄGLICH ANPASSEN*/
+/*FOOTER NACHTRÃ„GLICH ANPASSEN*/
 #footer {
+	position: relative;
+	float: left;
+	padding: 0;
+	width: calc(100% + 56px);
+	margin-left: -28px;
+	margin-right: -35px;
+	margin-bottom: -30px;
+	height: auto;
+}
+#footer ul {
+	width: 100%;
+	float: left;
 	display: none;
+}
+#footer ul.open {
+	display: block;
+}
+#footer ul li {
+	float: left;
+	width: 100%;
+	border-bottom: 1px rgba(245, 222, 179,0.5) solid;
+}
+#footer ul li a {
+	float: left;
+	width: calc(100% - 30px);
+	color: rgb(255, 255, 255);
+}
+#footer_menu_opener {
+	margin-bottom: -2px;
 }
 
 
@@ -481,7 +512,6 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {
 
 
      
-
 
 
 

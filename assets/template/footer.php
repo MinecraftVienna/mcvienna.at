@@ -19,18 +19,24 @@
 							<!-- My piwik Pixel, Code is in head-->
 							<noscript><p><img src="//statistics.niemeczek.at/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
 						</div><!-- Content -->
-					</div><!-- Content-Column -->
-				</div><!-- White-Box -->
+
 				<!-- Footer Navigation -->
 			<div id="footer">
-				<a class="footer-brand" href="#">&copy; 2015 mcvienna.at</a>
-				<ul>
+				<ul id="footer-nav">
 					<li><a href="/legal/">Impressum</a></li>	
 					<li><a href="/legal/">Datenschutz</a></li>	
 					<li><a href="/legal/">Disclaimer</a></li>	
 					<li><a href="/legal/">Kontakt</a></li>
 				</ul>
+				<a class="footer-brand" href="#">&copy; 2015 mcvienna.at</a>
+					<a class="menue-button menue-button-beschr-close" id="footer_menu_opener" href="#" >
+						<span class="menue-button-line"></span>
+						<span class="menue-button-line"></span>
+						<span class="menue-button-line"></span>
+					</a>	
 			</div>
+								</div><!-- Content-Column -->
+				</div><!-- White-Box -->
 </div>
 		<?php // SCHNEEFLOCKEN DIV BEGINN 
 			//Ein PHP-Script fügt den entsprechenden Codetag je nach Jahreszeit ein
@@ -41,7 +47,7 @@
 			else
 				{echo '</div>';}
 		?><!-- Winter Tag closed-->
-		
+		<!-- Javascript navigation -->
 <script type="text/javascript"> 
       var position = 0;
       var grayarea = document.getElementById("grayarea");
@@ -63,6 +69,42 @@
           xsidebar.classList.remove("open");
           grayarea.classList.remove("open");
           console.log("3");
+          position = 0;
+        }  
+      }
+		
+    //bigContentArea.addEventListener("click", toggle);
+    //grayarea.addEventListener("click", toggle);
+      grayarea.addEventListener("click", toggle);
+      nav_menu_opener.addEventListener("click", toggle);
+
+   
+  
+     
+    </script>
+
+		<!-- Javascript footer -->
+<script type="text/javascript"> 
+      var position = 0;
+     // var grayarea = document.getElementById("grayarea");
+      var nav_menu_opener = document.getElementById("footer_menu_opener");
+      var xfooternav = document.getElementById("footer-nav");
+    //var nav_menue_auf = document.getElementById("nav_menue_auf");
+      
+      
+      
+		console.log("start");
+
+      function toggle(evt) {
+        position++;
+			 if (position == 1) {
+          xfooternav.classList.add("open");
+          //grayarea.classList.add("open");
+          console.log("2 open");
+        } else {
+          xfooternav.classList.remove("open");
+          //grayarea.classList.remove("open");
+          console.log("3 close");
           position = 0;
         }  
       }
