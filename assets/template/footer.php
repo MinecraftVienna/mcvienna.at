@@ -23,10 +23,10 @@
 				<!-- Footer Navigation -->
 			<div id="footer">
 				<ul id="footer-nav">
-					<li><a href="/legal/">Impressum</a></li>	
-					<li><a href="/legal/">Datenschutz</a></li>	
-					<li><a href="/legal/">Disclaimer</a></li>	
-					<li><a href="/legal/">Kontakt</a></li>
+					<li><a href="/legal/impressum.php">Impressum</a></li>	
+					<li><a href="/legal/datenschutz.php">Datenschutz</a></li>	
+					<li><a href="/legal/disclaimer.php">Disclaimer</a></li>	
+					<li><a href="/legal/kontakt.php">Kontakt</a></li>
 				</ul>
 				<a class="footer-brand" href="#">&copy; 2015 mcvienna.at</a>
 					<a class="menue-button menue-button-beschr-close" id="footer_menu_opener" href="#" >

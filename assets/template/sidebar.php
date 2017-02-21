@@ -4,7 +4,7 @@
 	    				<img src="/assets/img/design/logo.png" id="sidebar-logo" alt="mcvienna-logo" />
 	    				<ul>
 	    					<li><a id="button1" href="/">Home</a></li>
-	    					<li><a id="button2" href="/galerie.php">Foto-Galerie</a></li>
+	    					<li><a id="button2" href="/galerie/galerie00.php">Foto-Galerie</a></li>
 	    					<li><a id="button3" href="http://mc.mcvienna.at:8123/" target="_blank">Live-Map</a></li>
 	    					<li><a id="button4" href="https://www.reddit.com/r/MCVienna/" target="_blank">Reddit</a></li>
 	    					<li><a id="button5" href="http://www.planetminecraft.com/project/vienna-11/" target="_blank">Planet Minecraft</a></li>

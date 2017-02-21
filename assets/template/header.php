@@ -65,6 +65,7 @@ $winter = false;
 <!-- End Piwik Code -->
 </head>
 	<body>
+	<script src="/assets/lightbox/lightbox-plus-jquery.min.js"></script>
 		<?php // SCHNEEFLOCKEN DIV BEGINN 	
 			//Ein PHP-Script fügt den entsprechenden Codetag je nach Jahreszeit ein
 			//Beginn u. Ende siehe Oben!
