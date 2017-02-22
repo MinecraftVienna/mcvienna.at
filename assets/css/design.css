@@ -60,6 +60,16 @@ h6 {
 	font-size: 25px;
 	border-radius: 2px;	
 }
+@media only screen and (max-width:990px) {
+	.socialbutton {
+		font-size: 20px;
+	}
+}
+@media only screen and (min-width:700px) and (max-width:745px) {
+	.socialbutton {
+		font-size: 18px;
+	}
+}
 #facebook {
 	background-color: rgb(66, 103, 178);
 	color: rgb(255, 255, 255);
