@@ -1,7 +1,9 @@
 	
 					<!-- Einrückung Sidebar -->
-					<div id="sidebar">		
-	    				<img src="/assets/img/design/logo.png" id="sidebar-logo" alt="mcvienna-logo" />
+					<div id="sidebar">
+						<a href="/">
+	    					<img src="/assets/img/design/logo.png" id="sidebar-logo" alt="mcvienna-logo" />
+	    				</a>
 	    				<ul>
 	    					<li><a id="button1" href="/">Home</a></li>
 	    					<li><a id="button2" href="/galerie/galerie00.php">Foto-Galerie</a></li>
