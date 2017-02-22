@@ -173,6 +173,7 @@ h6 {
 	width: 75%;
 	margin: 15px 11% 5px 14%;
 }
+
 #sidebar ul{
 	list-style: none;
 }
@@ -361,9 +362,10 @@ h6 {
 #sidebar .sidebar-info p {
 	margin-top: 0;
 }
-#sidebar .sidebar-info img {
+#sidebar .sidebar-partner-logo {
 	width: 90%;
 	cursor: pointer;
+	margin-left: 7%;
 }
 
 #content-column {
