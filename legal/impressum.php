@@ -1,5 +1,5 @@
 <?php
-include("template/header.php");
+include("../assets/template/header.php");
 ?>
 <!--Hier Text -->   <!--
 					<div  style=" border: black 1px solid; padding:10px; float: right; width: 20%; min-width: 20em; margin-top: 1.7em; ">
@@ -32,5 +32,5 @@ include("template/header.php");
 					<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <!--Hier Text Ende-->
 <?php
-include("template/footer.php");
+include("../assets/template/footer.php");
 ?>

@@ -31,6 +31,10 @@
 	    					</p>
 	    				</div> -->
 	    				<hr>
+	    					<a href="https://www.facebook.com/mcvienna/" target="_blank" id="facebook" class="socialbutton">FACEBOOK</a>
+	    					<a href="https://twitter.com/MCVienna" target="_blank" id="twitter" class="socialbutton">TWITTER</a>
+	    					<a href="https://www.youtube.com/channel/UCQI8w0TISrbrh3fFERmfjbg" target="_blank" id="youtube" class="socialbutton">YOUTUBE</a>
+	    				<hr>
 	    				<div class="sidebar-info">
 	    					<h4>Partner</h4>
 	    					<a href="http://www.wienkanal.at/" target="_blank"><img src="/assets/img/design/wien-kanal-logos/WKNLOGO2.jpg" alt="Wien Kanal Logo"></a>

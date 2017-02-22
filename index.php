@@ -3,10 +3,9 @@
 include("assets/template/header.php");
 ?>
 
-						<!--Begin Content -->  <br /><br />
-							<div>
+						<!--Begin Content -->  
 								<br /><br />
-					Was haben ein Sportlehrer, ein Student f&uuml;r Bauingenieurwesen, ein Pilot, ein Gartenbausch&uuml;ler, ein Mechatroniker und ein Pharmaziestudent gemeinsam?<br />
+					Was haben ein Sportlehrer, ein Student f&uuml;r Bauingenieurwesen, ein Pilot, ein Informatikstudent, ein Mechatroniker und ein Pharmaziestudent gemeinsam?<br />
                     <br />
                     <br /><br />Sie haben es sich zum Ziel gesetzt die Stadt Wien im Sandbox Open-World-Spiel Minecraft als virtuelle Welt nachzubauen. 
                     <br /><br />
@@ -17,6 +16,7 @@ include("assets/template/header.php");
                     <img src="/assets/img/chunkyrender/Vienna-Stephansdom1.png" width="90%" alt="Wien Stephansdom" />
                     <br /><br />Um sich besser koordinieren zu k&ouml;nnen haben sich die kreativen K&ouml;pfe um Gr&uuml;nder Stefan Riedmann und Serveradminstrator Harald Niemeczek zum Verein Minecraft Vienna zusammengeschlossen.
                     <br /><br />Seit Anfang 2015 unterst&uuml;tzt auch Wien-Kanal dieses innovative Projekt. Insbesondere jene Teile des Wiener Kanalnetzes, welche auch im Zuge der 3. Mann Tour besichtigt werden k&ouml;nnen, sowie Abschnitte des Wienflusses werden in die dreidimensionale virtuelle Welt aus unz&auml;hligen Bl&ouml;cken eingebunden.
+                    <br /><br /><br /><br /><img src="/assets/img/chunkyrender/Vienna-MAK.png" width="90%" alt="Wien MAK" />
                     </p>      
 
 					<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -27,7 +27,6 @@ include("assets/template/header.php");
 
                     <br /><br />
 								</p> 
-							</div>
 							<!--Hier CONTENT Ende-->
 	<?php
 	include("assets/template/footer.php");
