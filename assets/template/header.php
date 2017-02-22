@@ -24,6 +24,7 @@ else
 {
 $winter = false;
 }
+$winter = false;
 ?>
 <!DOCTYPE html>
 <html lang="de">

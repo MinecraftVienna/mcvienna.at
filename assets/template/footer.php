@@ -74,7 +74,7 @@
 			//Beginn u. Ende siehe Oben!
 		
 			if ( $winter == true )
-				{echo '</div>';}
+				{echo '</div> <!-- winter -->';}
 			else
 				{echo '</div>';}
 		?><!-- Winter Tag closed-->
