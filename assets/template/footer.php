@@ -116,9 +116,9 @@
 
 		<!-- Javascript footer -->
 <script type="text/javascript"> 
-      var position = 0;
+      var footerposition = 0;
      // var grayarea = document.getElementById("grayarea");
-      var nav_menu_opener = document.getElementById("footer_menu_opener");
+      var footer_opener = document.getElementById("footer_menu_opener");
       var xfooternav = document.getElementById("footer-nav");
     //var nav_menue_auf = document.getElementById("nav_menue_auf");
       
@@ -126,9 +126,9 @@
       
 		console.log("start");
 
-      function toggle(evt) {
-        position++;
-			 if (position == 1) {
+      function footertoggle(evt) {
+        footerposition++;
+			 if (footerposition == 1) {
           xfooternav.classList.add("open");
           //grayarea.classList.add("open");
           console.log("2 open");
@@ -136,14 +136,14 @@
           xfooternav.classList.remove("open");
           //grayarea.classList.remove("open");
           console.log("3 close");
-          position = 0;
+          footerposition = 0;
         }  
       }
 		
     //bigContentArea.addEventListener("click", toggle);
     //grayarea.addEventListener("click", toggle);
-      grayarea.addEventListener("click", toggle);
-      nav_menu_opener.addEventListener("click", toggle);
+    //  grayarea.addEventListener("click", toggle);
+     footer_opener.addEventListener("click", footertoggle);
 
    
   
