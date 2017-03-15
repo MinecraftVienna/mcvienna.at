@@ -16,34 +16,36 @@
 							</script>
 							<noscript><p><img src="//tracking.haschek.at/piwik.php?idsite=10" style="border:0;" alt="" /></p></noscript>-->
 							<!-- End Piwik Code -->
-							<!-- My piwik Pixel, Code is in head-->
+							
+							
+							<!-- haschek Piwik ergänzt mit meinen Daten 
+							See https://developer.piwik.org/guides/tracking-javascript-guide#multiple-piwik-trackers 
+							Section Collect your analytics data into two or more Piwik servers -->
+							<script type="text/javascript">
+							  var _paq = _paq || [];
+							  _paq.push(['trackPageView']);
+							  _paq.push(['enableLinkTracking']);
+							  (function() {
+							    var u="//tracking.haschek.at/";
+							    _paq.push(['setTrackerUrl', u+'piwik.php']);
+							    _paq.push(['setSiteId', 10]);
+							    
+							    // Add this code below within the Piwik JavaScript tracker code
+							    // Important: the tracker url includes the /piwik.php
+							    var secondaryTracker = 'https://statistics.niemeczek.at/piwik.php';
+							    var secondaryWebsiteId = 4;
+							    // Also send all of the tracking data to this other Piwik server, in website ID 77
+							    _paq.push(['addTracker', secondaryTracker, secondaryWebsiteId]);
+							    // That's it!
+							    
+							    
+							    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+							    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+							  })();
+							</script>
+							<noscript><p><img src="//tracking.haschek.at/piwik.php?idsite=10" style="border:0;" alt="" /></p></noscript>
 							<noscript><p><img src="//statistics.niemeczek.at/piwik.php?idsite=4" style="border:0;" alt="" /></p></noscript>
-							
-							
-
-
-
-
-
-
-
-
-<!-- Piwik -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  // tracker methods like "setCustomDimension" should be called before "trackPageView"
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//statistics.niemeczek.at/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '7']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<!-- End Piwik Code -->
-
+							<!-- End Piwik Code -->
 
 
 
