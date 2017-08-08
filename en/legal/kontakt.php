@@ -8,10 +8,10 @@ require("../assets/template/header.php");
 					</h1>
 					<br /><br /><br />
 					<p style="text-align: center;">
-					Bitte kontaktieren Sie uns &uuml;ber unsere Mailadresse <a href="mailto:office@mcvienna.at">office@mcvienna.at</a> oder
+					Please contact us via our mailadress <a href="mailto:office@mcvienna.at">office@mcvienna.at</a> or
                     </p>
                     <p style="text-align: center;">
-                    unsere <a href="https://www.facebook.com/mcvienna">Facebook-Seite</a>.
+                    via our <a href="https://www.facebook.com/mcvienna">Facebook-page</a>.
                     </p>          <br /><br />
                     <div align="center">
 					<img src="/assets/img/chunkyrender/Weiskirchnerstrasse.png" width="90%" alt="Wien Weiskirchnerstra&szlig;e" /></div>
