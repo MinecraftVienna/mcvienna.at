@@ -5,14 +5,14 @@ include("assets/template/header.php");
 
 						<!--Begin Content -->  <br /><br />
 							<div>
-								<h1>Presseberichte</h1>
+								<h1>Press reports</h1>
 								
 								                                                                                                          
 								<p>
                <h3>
-                         In folgenden Medien wurden wir schon erw&auml;hnt:
+                         In the following articles our project has been reported:
 					</h3>
-                    <p style="text-align: center;">Für Anfragen wenden Sie sich bitte an <href="mailto:presse@mcvienna.at">presse@mcvienna.at</href></p>
+                    <p style="text-align: center;">For requests please contact <href="mailto:presse@mcvienna.at">presse@mcvienna.at</href></p>
 					<br />
 					<br />
 					<br />
