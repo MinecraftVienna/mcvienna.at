@@ -27,7 +27,7 @@ $winter = false;
 $winter = false; //Winter bzw. Schneeflocken ausgeschalten!
 ?>
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>MCVienna | Replica of Vienna in Minecraft</title>

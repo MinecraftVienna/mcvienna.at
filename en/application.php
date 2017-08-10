@@ -2,14 +2,24 @@
 <?php
 include("assets/template/header.php");
 ?>
-
-						<!--Begin Content -->  <br /><br />
+						<!--Begin Language Selection -->
+						<div id="language-selector">
+							<a href="/bewerbung.php" hreflang="de">
+								<img src="/assets/img/design/language_AT.png" alt="Flag of Austria" id="flag1" class="lang-flag" >
+								<img src="/assets/img/design/language_DE.png" alt="Flag of Germany" id="flag2" class="lang-flag" >
+								<span>
+									deutsch
+								</span>
+							</a>
+						</div> 
+						<!--End Language Selection --> 
+						<!--Begin Content -->  
 							<div>
 								<h1>Application</h1>
 								
 								                                                                                                          
 								<p>
-									<br />                                                                                                                                                                                               
+									<br />
 									We are always looking for skilled builders who support us at our project.
 									
 									Due to the high level that we are working at we have high expectations of our applicants .

@@ -60,6 +60,52 @@ h6 {
 	font-size: 25px;
 	border-radius: 2px;	
 }
+#language-selector {
+
+	height: 20px; 
+	background-color: rgba(00, 00, 00, 0.1); 
+	padding: 5px; 
+	width: 100px;
+}
+#language-selector a {
+	text-decoration: none;
+}
+#language-selector span {
+	 color: #008cba;
+}
+ #language-selector .lang-flag {
+		height: 10px;
+		width: auto;
+		margin: 0;
+}
+@media only screen and (max-width:700px) {
+	#language-selector {
+		position: fixed; 
+		right: 0; 
+		top: 100px; 
+		width: 30px;
+		height: 100px;
+		
+	}
+	#language-selector img {
+		position: absolute;
+		right: 15px;
+
+	}
+	#language-selector #flag1 {
+		top: 10px;
+	}
+	#language-selector #flag2 {
+		top: 27px;
+	}
+	#language-selector span{
+		position: absolute; 
+		top: 60px;
+		right: -3px;
+		transform: rotate(90deg); 
+		
+	}
+}
 @media only screen and (max-width:990px) {
 	.socialbutton {
 		font-size: 20px;

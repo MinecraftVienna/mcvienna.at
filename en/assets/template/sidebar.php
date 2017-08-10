@@ -6,13 +6,13 @@
 	    				</a>
 	    				<ul>
 	    					<li><a id="button1" href="/en/">Home</a></li>
-	    					<li><a id="button2" href="/en/galerie/galerie00.php">Photo Gallery</a></li>
+	    					<li><a id="button2" href="/en/gallery/gallery00.php">Photo Gallery</a></li>
 	    					<li><a id="button3" href="http://mc.mcvienna.at:8123/" target="_blank">Live-Map</a></li>
 	    					<li><a id="button4" href="https://www.reddit.com/r/MCVienna/" target="_blank">Reddit</a></li>
 	    					<li><a id="button5" href="http://www.planetminecraft.com/project/vienna-11/" target="_blank">Planet Minecraft</a></li>
-	  	  					<li><a id="button6" href="/en/presse.php">Press</a></li>
+	  	  					<li><a id="button6" href="/en/press.php">Press</a></li>
 	    					<li><a id="button7" href="/en/faq.php">FAQ</a></li>
-	    					<li><a id="button8" href="/en/bewerbung.php">Application</a></li>
+	    					<li><a id="button8" href="/en/application.php">Application</a></li>
 	    				</ul>
 	    				<hr>
 	    				<div class="sidebar-info">
