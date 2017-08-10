@@ -54,10 +54,23 @@ include("assets/template/header.php");
 									Our team could not be more diverse. We have students aof schools and universities, Teachers and even a pilot in our team.
 									Our oldest builder is 43, our youngest Applicant is 10 years old. If you want to become part of our team please send us
 									<a href="bewerbung.php">your application</a>!
-
+									<br /><br /><br />
+									<b>How do I find my way around?</b>
+									<br /><br />
+									For that purpose you can use the <a href="http://mc.mcvienna.at:8123/" >Live-Map</a>. At the right side is a thin, small stripe. 
+									When you hover your mouse over it, a menu opens, where you can switch to angled view and cave view.
+									<br /><br /><br />
+									<b>Did your also build subways and trams?</b>
+									<br /><br />
+									Some parts of Vienna's subway- and tram-lines have been built and can be used (with minecarts). Here is a map of our subway lines:
+									<br /><br />
+									<a class="gallery-item" href="/assets/img/map/U-Bahn-Plan_20170106.PNG" data-lightbox="mcvienna" data-title="MCVIENNA Vienna Minecraft subway map">
+									<img class="lightbox13" src="/assets/img/map/U-Bahn-Plan_20170106.PNG" alt="MCVIENNA Vienna Minecraft subway map">
+									</a>
                                                                                                                     
-									<br /><br />                                                                                                                                                                                                                                                                        
-                                                                                                                        
+									<br /><br />
+                           <span style="color: transparent;">.</span>
+                           <br /> <br /> <br />                                                                                             
 									Please send us suggestions and unanswered questions at <a href="mailto:office@mcvienna.at">office@mcvienna.at</a>.
                            <br /><br />
                            

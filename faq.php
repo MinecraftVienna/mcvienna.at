@@ -53,10 +53,23 @@ include("assets/template/header.php");
 									Unser Team k&ouml;nnte gar nicht bunter sein. Wir haben Studenten, Sch&uuml;ler, Lehrer und sogar einen Piloten im Team. 
 									Unser &auml;ltester Baumeister ist 43, unser j&uuml;ngster Bewerber ist 10 Jahre alt. Wenn du auch Teil des Teams werden 
 									willst schick uns <a href="bewerbung.php">deine Bewerbung!</a>
+									<br /><br /><br />
+									<b>Wie finde ich mich auf der Welt zurecht?</b>
+									<br /><br />
+									Dazu kannst Du die <a href="http://mc.mcvienna.at:8123/" >Live-Map</a> verwenden. Auf der linken Seite befindet sich ein schmaler Streifen. Fährt man mit der Maus über diesen, so öffnet sich eine Leiste, bei der auch auf Schrägansicht und Höhlenansicht umgestellt werden kann.
+									<br /><br /><br />
+									<b>Gibt es auch U-Bahnen und Straßenbahnen?</b>
+									<br /><br />
+									Ja, einige U-Bahn (und Straßenbahn)-Linien wurden bereits gebaut und können auch innerhalb des Spiels benutzt werden! Hier ist auch ein U-Bahn-Plan:
+									<br /><br />
 
-                                                                                                                    
-									<br /><br />                                                                                                                                                                                                                                                                        
-                                                                                                                        
+									<a class="gallery-item" href="/assets/img/map/U-Bahn-Plan_20170106.PNG" data-lightbox="mcvienna" data-title="MCVIENNA ">
+									<img class="lightbox13" src="/assets/img/map/U-Bahn-Plan_20170106.PNG" alt="MCVIENNA Wien Minecraft">
+									</a>
+							</p>
+							<p>
+									<span style="color: transparent;">.</span>
+                           <br /> <br /> <br /> 
 									Vorschl&auml;ge f&uuml;r die FAQ bitte an <a href="mailto:office@mcvienna.at">office@mcvienna.at</a> senden.
                            <br /><br />
                            
