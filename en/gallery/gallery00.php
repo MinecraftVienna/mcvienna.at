@@ -8,7 +8,7 @@ include("../assets/template/header.php");
 								<img src="/assets/img/design/language_AT.png" alt="Flag of Austria" id="flag1" class="lang-flag" >
 								<img src="/assets/img/design/language_DE.png" alt="Flag of Germany" id="flag2" class="lang-flag" >
 								<span>
-									deutsch
+									Deutsch
 								</span>
 							</a>
 						</div> 
@@ -22,8 +22,8 @@ include("../assets/template/header.php");
 									<a class="gallery-item" href="/assets/img/chunkyrender/Stephansdom.png" data-lightbox="mcvienna" data-title="St. Stephen's Cathedral">
 										<img class="lightbox13" src="/assets/img/chunkyrender/Stephansdom-small.jpg" alt="MCVIENNA Vienna Minecraft replica St. Stephen's Cathedral">
 									</a>
-									<a class="gallery-item" href="/assets/img/chunkyrender/Parlament.png" data-lightbox="mcvienna" data-title="Parliament">
-										<img class="lightbox13" src="/assets/img/chunkyrender/Parlament-small.jpg" alt="MCVIENNA Vienna Minecraft replica Parliament">
+									<a class="gallery-item" href="/assets/img/chunkyrender/Burgtheater.png" data-lightbox="mcvienna" data-title="Burgtheater">
+										<img class="lightbox13" src="/assets/img/chunkyrender/Burgtheater-small.jpg" alt="MCVIENNA Vienna Minecraft replica Burgtheater">
 									</a>
 									<a class="gallery-item" href="/assets/img/chunkyrender/Vienna-Donaukanal3-250.png" data-lightbox="mcvienna" data-title="Danube Canal (Donaukanal) Vienna">
 										<img class="lightbox13" src="/assets/img/chunkyrender/Vienna-Donaukanal3-250-small.jpg" alt="MCVIENNA Vienna Danube Canal (Donaukanal) Minecraft">
@@ -182,8 +182,8 @@ include("../assets/template/header.php");
 									<a class="gallery-item" href="/assets/img/chunkyrender/Stephansdom.png" data-lightbox="mcvienna" data-title="St. Stephen's Cathedral">
 										<img class="lightbox13" src="/assets/img/chunkyrender/Stephansdom-small.jpg" alt="MCVIENNA Vienna Minecraft replica St. Stephen's Cathedral">
 									</a>
-									<a class="gallery-item" href="/assets/img/chunkyrender/Parlament.png" data-lightbox="mcvienna" data-title="Parliament">
-										<img class="lightbox13" src="/assets/img/chunkyrender/Parlament-small.jpg" alt="MCVIENNA Vienna Minecraft replica Parliament">
+									<a class="gallery-item" href="/assets/img/chunkyrender/Burgtheater.png" data-lightbox="mcvienna" data-title="Burgtheater">
+										<img class="lightbox13" src="/assets/img/chunkyrender/Burgtheater-small.jpg" alt="MCVIENNA Vienna Minecraft replica Burgtheater">
 									</a>
 									<a class="gallery-item" href="/assets/img/screenshots/2017-08-10/2017-08-10_10.29.56-Parlament.png" data-lightbox="mcvienna" data-title="Parliament">
 										<img class="lightbox13" src="/assets/img/screenshots/2017-08-10/2017-08-10_10.29.56-Parlament.png" alt="MCVIENNA Vienna Minecraft replica Parliament">

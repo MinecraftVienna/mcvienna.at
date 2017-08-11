@@ -8,7 +8,7 @@ include("assets/template/header.php");
 								<img src="/assets/img/design/language_GB.png" alt="Flag of Great Britain" id="flag1" class="lang-flag" >
 								<img src="/assets/img/design/language_US.png" alt="Flag of USA" id="flag2" class="lang-flag" >
 								<span>
-									english
+									English
 								</span>
 							</a>
 						</div> 

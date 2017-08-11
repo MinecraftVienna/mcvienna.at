@@ -39,7 +39,7 @@
 	    				<hr>
 	    				<div class="sidebar-info">
 	    					<h4>Partner</h4>
-	    					<a href="http://www.wienkanal.at/" target="_blank"><img src="/assets/img/design/wien-kanal-logos/WKNLOGO2.jpg" alt="Wien Kanal Logo"  class="sidebar-partner-logo" ></a>
+	    					<a href="https://www.wien.gv.at/english/environment/sewer-system/" target="_blank"><img src="/assets/img/design/wien-kanal-logos/WKNLOGO2.jpg" alt="Wien Kanal Logo"  class="sidebar-partner-logo" ></a>
 	    				</div>
 	    
 					</div>
