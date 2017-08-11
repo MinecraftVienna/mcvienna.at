@@ -33,9 +33,9 @@ include("assets/template/header.php");
 									<br /><br /><br />
 									<b>Wer baut bei Euch mit?    </b>
 									<br /><br />
-									Der harte Kern besteht aus 5 Baumeistern, dar&uuml;ber hinaus gibt es weniger aktive Builder, die die H&uuml;rde der Bewerbung geschafft haben.
+									Der harte Kern besteht aus 5 Baumeistern, dar&uuml;ber hinaus gibt es weniger aktive Builder, die die H&uuml;rde der Bewerbung geschafft haben sowie Leute, die sich um Serververwaltung, Webseite und andere Bereiche abseits des Baubetriebes kümmern.
 									<br />
-									Harald <i>AnonymusChaotic</i> Niemeczek k&uuml;mmert sich um den Server und ist f&uuml;r den Support verantwortlich.
+									
 									<br /><br /><br />
 									<b>Was ist als n&auml;chstes geplant?</b>
 									<br /><br />

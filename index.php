@@ -24,7 +24,6 @@ include("assets/template/header.php");
                     <br /><br />Ausgehend vom 1. Bezirk, der Inneren Stadt, werden nach und nach Wahrzeichen, Stra&szlig;en und Geb&auml;ude in penibler Detailarbeit dem Original nachempfunden. Hierzu werden sowohl Satellitenaufnahmen, Pl&auml;ne und Kartenmaterial als auch vor Ort aufgenomme Fotos zur Hilfe gezogen. Im Zuge der n&auml;chsten Monate und Jahre werden immer mehr Gr&auml;tzl der Hauptstadt in dieser Art und Weise gebaut werden.
                     <br /><br />
                     <img src="/assets/img/chunkyrender/Vienna-Stephansdom1.png" width="90%" alt="Wien Stephansdom" />
-                    <br /><br />Um sich besser koordinieren zu k&ouml;nnen haben sich die kreativen K&ouml;pfe um Gr&uuml;nder Stefan Riedmann und Serveradminstrator Harald Niemeczek zum Verein Minecraft Vienna zusammengeschlossen.
                     <br /><br />Seit Anfang 2015 unterst&uuml;tzt auch Wien-Kanal dieses innovative Projekt. Insbesondere jene Teile des Wiener Kanalnetzes, welche auch im Zuge der 3. Mann Tour besichtigt werden k&ouml;nnen, sowie Abschnitte des Wienflusses werden in die dreidimensionale virtuelle Welt aus unz&auml;hligen Bl&ouml;cken eingebunden.
                     <br /><br /><br /><br /><img src="/assets/img/chunkyrender/Vienna-MAK.png" width="90%" alt="Wien MAK" />
                     </p>      
