@@ -1,6 +1,15 @@
 <?php
 include("../assets/template/header.php");
 ?>
+						<div id="language-selector">
+							<a href="/en/legal/imprint.php" hreflang="en">
+								<img src="/assets/img/design/language_GB.png" alt="Flag of Great Britain" id="flag1" class="lang-flag" >
+								<img src="/assets/img/design/language_US.png" alt="Flag of USA" id="flag2" class="lang-flag" >
+								<span>
+									English
+								</span>
+							</a>
+						</div>
 <!--Hier Text -->   <!--
 					<div  style=" border: black 1px solid; padding:10px; float: right; width: 20%; min-width: 20em; margin-top: 1.7em; ">
 					<p>

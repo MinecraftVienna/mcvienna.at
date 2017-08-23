@@ -2,6 +2,15 @@
 <?php
 include("../assets/template/header.php");
 ?>
+						<div id="language-selector">
+							<a href="/legal/disclaimer.php" hreflang="de">
+								<img src="/assets/img/design/language_AT.png" alt="Flag of Austria" id="flag1" class="lang-flag" >
+								<img src="/assets/img/design/language_DE.png" alt="Flag of Germany" id="flag2" class="lang-flag" >
+								<span>
+									Deutsch
+								</span>
+							</a>
+						</div>
 
 						<!--Begin Content -->  <br /><br />
 							<div>

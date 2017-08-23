@@ -56,10 +56,10 @@
 				<!-- Footer Navigation -->
 			<div id="footer">
 				<ul id="footer-nav">
-					<li><a href="/en/legal/impressum.php">Imprint</a></li>	
-					<li><a href="/en/legal/datenschutz.php">Privacy</a></li>	
+					<li><a href="/en/legal/imprint.php">Imprint</a></li>	
+					<li><a href="/en/legal/privacy_policy.php">Privacy</a></li>	
 					<li><a href="/en/legal/disclaimer.php">Disclaimer</a></li>	
-					<li><a href="/en/legal/kontakt.php">Contact us</a></li>
+					<li><a href="/en/legal/contact.php">Contact us</a></li>
 				</ul>
 				<a class="footer-brand" href="#">&copy; 2015 mcvienna.at</a>
 					<a class="menue-button menue-button-beschr-close" id="footer_menu_opener" href="#" >

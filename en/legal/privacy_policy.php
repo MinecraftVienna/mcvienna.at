@@ -2,6 +2,15 @@
 <?php
 include("../assets/template/header.php");
 ?>
+						<div id="language-selector">
+							<a href="/legal/datenschutz.php" hreflang="de">
+								<img src="/assets/img/design/language_AT.png" alt="Flag of Austria" id="flag1" class="lang-flag" >
+								<img src="/assets/img/design/language_DE.png" alt="Flag of Germany" id="flag2" class="lang-flag" >
+								<span>
+									Deutsch
+								</span>
+							</a>
+						</div>
 
 						<!--Begin Content -->  <br /><br />
 							<div>
@@ -28,7 +37,7 @@ include("../assets/template/header.php");
 								<p>Diese Website benutzt den Open Source Webanalysedienst Piwik. Piwik verwendet so genannte "Cookies". Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Dazu werden die durch den Cookie erzeugten Informationen über die Benutzung dieser Website auf unserem Server gespeichert. Die IP-Adresse wird vor der Speicherung anonymisiert.</p>
 								<p>Die durch den Cookie erzeugten Informationen über die Benutzung dieser Website werden nicht an Dritte weitergegeben. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können.</p>
 								<p>Wenn Sie mit der Speicherung und Nutzung Ihrer Daten nicht einverstanden sind, können Sie die Speicherung und Nutzung hier deaktivieren. In diesem Fall wird in Ihrem Browser ein Opt-Out-Cookie hinterlegt der verhindert, dass Piwik Nutzungsdaten speichert. Wenn Sie Ihre Cookies löschen hat dies zur Folge, dass auch das Piwik Opt-Out-Cookie gelöscht wird. Das Opt-Out muss bei einem erneuten Besuch unserer Seite wieder aktiviert werden.</p>
-								<p><em><strong><a style="color:#F00;" href="http://piwik.org/docs/privacy/" rel="nofollow" target="_blank">[Hier PIWIK iframe-Code einfügen] (Klick für die Anleitung)</a></strong></em></p><br />
+								<!--<p><em><strong><a style="color:#F00;" href="http://piwik.org/docs/privacy/" rel="nofollow" target="_blank">[Hier PIWIK iframe-Code einfügen] (Klick für die Anleitung)</a></strong></em></p><br /> -->
 								<iframe style="border: 0; height: 200px; width: 600px;" src="https://statistics.niemeczek.at/index.php?module=CoreAdminHome&action=optOut&language=en"></iframe>
 								<p><em>Quelle: <a href="https://www.e-recht24.de/muster-datenschutzerklaerung.html">https://www.e-recht24.de/muster-datenschutzerklaerung.html</a></em></p>
 

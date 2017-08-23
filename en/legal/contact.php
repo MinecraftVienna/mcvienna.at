@@ -1,14 +1,23 @@
 <?php
 require("../assets/template/header.php");
 ?>
+						<div id="language-selector">
+							<a href="/legal/kontakt.php" hreflang="de">
+								<img src="/assets/img/design/language_AT.png" alt="Flag of Austria" id="flag1" class="lang-flag" >
+								<img src="/assets/img/design/language_DE.png" alt="Flag of Germany" id="flag2" class="lang-flag" >
+								<span>
+									Deutsch
+								</span>
+							</a>
+						</div>
 <!--Hier Text -->
 
                     <h1 class="text-center">
-						Kontakt
+						Contact
 					</h1>
 					<br /><br /><br />
 					<p style="text-align: center;">
-					Please contact us via our mailadress <a href="mailto:office@mcvienna.at">office@mcvienna.at</a> or
+					Please contact us via our mail address <a href="mailto:office@mcvienna.at">office@mcvienna.at</a> or
                     </p>
                     <p style="text-align: center;">
                     via our <a href="https://www.facebook.com/mcvienna">Facebook-page</a>.
