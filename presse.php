@@ -90,7 +90,7 @@ include("assets/template/header.php");
 					</p>
 
 					<p style="text-align: center;">
-						<a href="http://www.gamesvillage.it/videogiochi/news/101618/fan-austriaci-ricreano-vienna-in-minecraft/" >Gamesvillage: Fan austriaci ricreano Vienna in Minecraft (Italiensich)</a>
+						<a href="http://www.gamesvillage.it/videogiochi/news/101618/fan-austriaci-ricreano-vienna-in-minecraft/" >Gamesvillage: Fan austriaci ricreano Vienna in Minecraft (Italienisch)</a>
 					</p>
 					
 					<p style="text-align: center;">
